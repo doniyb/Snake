@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+D:\ФайлыС++\Проекты_С++\Snake_git\MyForm.cpp(150,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\ФайлыС++\Проекты_С++\Snake_git\MyForm.cpp(182,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Snake_git.vcxproj -> D:\ФайлыС++\Проекты_С++\Snake_git\x64\Release\Snake_git.exe

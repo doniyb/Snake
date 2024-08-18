@@ -1,0 +1,3 @@
+D:\ФайлыС++\Проекты_С++\Snake_git\Snake_git\x64\Debug\Snake_git.vcxproj.AssemblyReference.cache
+D:\ФайлыС++\Проекты_С++\Snake_git\Snake_git\x64\Debug\Snakegit.MyForm.resources
+D:\ФайлыС++\Проекты_С++\Snake_git\Snake_git\x64\Debug\Snake_git.vcxproj.GenerateResource.cache
